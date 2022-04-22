@@ -15,3 +15,8 @@
 
 * Li, Yang, et al. "Learnable Fourier Features for Multi-Dimensional Spatial Positional Encoding." Advances in Neural Information Processing Systems 34 (2021). [[pdf]](https://papers.nips.cc/paper/2021/file/84c2d4860a0fc27bcf854c444fb8b400-Paper.pdf)
 
+### Molecular dynamics
+* Guan, Jiaqi, et al. "Energy-Inspired Molecular Conformation Optimization." International Conference on Learning Representations. 2021.
+[[pdf]](https://openreview.net/pdf?id=7QfLW-XZTl)
+* Satorras, Vı́ctor Garcia, Emiel Hoogeboom, and Max Welling. "E (n) equivariant graph neural networks." International Conference on Machine Learning. PMLR, 2021. [[pdf]](https://arxiv.org/pdf/2102.09844.pdf)
+* 
